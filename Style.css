@@ -1,0 +1,16 @@
+﻿body {
+    background-color: #82C1FF;
+}
+@media only screen and (max-width: 960px){
+    .container {
+        width: auto;
+
+        
+    }
+    
+
+}
+.nav {
+    text-align: center;
+    font-size: 40px;
+}
