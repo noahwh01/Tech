@@ -1,16 +1,19 @@
 ﻿body {
     background-color: #82C1FF;
 }
-@media only screen and (max-width: 960px){
+@media {
     .container {
         width: auto;
-
-        
+        text-align: center;
     }
+}       
+  
+
     
 
-}
+
 .nav {
     text-align: center;
     font-size: 40px;
 }
+
